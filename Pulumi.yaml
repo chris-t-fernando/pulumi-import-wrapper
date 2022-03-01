@@ -1,0 +1,6 @@
+name: pulumi-import-wrapper
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A wrapper for importing existing VMs into Pulumi's state
